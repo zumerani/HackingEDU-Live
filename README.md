@@ -3,4 +3,6 @@ live.html is the site I worked on for HackingEDU -- the site served as a guide f
 
 live.html can be found in '/public' and the css file can be found under '/public/assets/css' (live_style.css).
 
+The live site is mobile responsive (media-queries) and compatible on all devices
+
 
